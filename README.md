@@ -127,9 +127,14 @@ uu.addDomain('goo.gl', {
 });
 ```
  
-### Cache
+## Cache
 
 *TODO*
+
+## Security considerations
+
+ - allowed protocols
+ - redirect loop
 
 ## License
 
