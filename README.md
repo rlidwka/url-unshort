@@ -111,8 +111,8 @@ uu.addDomain('goo.gl', {
   match: /^\/[a-z0-9]+$/i,
   fetch: function (url, callback) {
     require('request')({
-      method:        'HEAD',
-      url:           'http://goo.gl/HwUfwd',
+      method: 'HEAD',
+      url: url,
       followRedirect: false,
     }, function (err, res, body) {
       if (err) return callback(err);
