@@ -1,0 +1,15 @@
+{
+  "name": "url-unshort",
+  "version": "0.0.0",
+  "description": "expand urls provided by url shortening services",
+  "keywords": [],
+  "repository": "nodeca/url-unshort",
+  "license": "MIT",
+  "scripts": {
+    "test": "make test"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+  }
+}
