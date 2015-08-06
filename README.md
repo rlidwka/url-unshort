@@ -135,6 +135,7 @@ uu.addDomain('goo.gl', {
 
  - allowed protocols
  - redirect loop
+ - well-formed urls
 
 ## License
 
