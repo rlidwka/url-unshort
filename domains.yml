@@ -1,3 +1,8 @@
+#
+# The list of domains handled by internal rules
+#
+
+default:
  - 0rz.tw
  - 2.gp
  - 7.ly
@@ -43,13 +48,13 @@
  - vurl.com
  - xurl.es
 
-# Snipurl domains
+ # Snipurl domains
  - snipurl.com
  - snurl.com
  - snipr.com
  - sn.im
 
-# Bitly domains
+ # Bitly domains
  - bit.ly
  - tgr.ph
  - j.mp
